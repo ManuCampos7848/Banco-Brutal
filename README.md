@@ -72,4 +72,5 @@ Some features of the project:
 - A “HashSet” was used for the customer list.
 - An “ArrayList” was used for the list of employees and administrators.
 - “HashMap” was used for the list of accounts and transactions.
+
 To run the project, start the “App” class found in the “Application” folder within “src”. Within “src” there is also a folder called “Functional Images” in which you can see different screenshots of the execution project, in addition to being able to analyze functionalities of both the client and the administrator. Thank you very much in advance for the time provided.
