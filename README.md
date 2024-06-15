@@ -36,6 +36,7 @@ Algunas características del proyecto:
 Para ejecutar el proyecto, iniciar la clase “App” que se encuentra en la carpeta “Aplicación” dentro de “src”. Dentro de “src” de igual manera se encuentra una carpeta de nombre “Imágenes del Funcionamiento” en la que se aprecian diferentes capturas de pantalla del proyecto ejecución, además de poder analizar funcionalidades tanto del cliente como del administrador. Muchas gracias de antemano por el tiempo brindado.
 
 ___________________________ English _____________________
+
 This project tries to emulate some functionalities that bank applications have, such functionalities are for example:
 - Create an account (it can be “Savings” or “Current”).
 - Deposit money (from the client side).
